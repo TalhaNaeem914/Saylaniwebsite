@@ -1,0 +1,142 @@
+.hea{
+	background-color: #316DC3;
+	color: white;
+	text-align: center;
+	
+	
+}	
+
+.btn{
+	font-size: 10px !important;
+    background-color: #F5F5F5 !important;
+    margin-top: 11px;
+    border-radius: 1px !important;
+
+}
+#icon{
+	margin-top: 15px;
+}
+ul li a{
+   margin-left: 20px;
+   color: black !important;
+   font-size: 15px;
+
+}
+ul li a:hover{
+	background-color: #316DC3;
+	color: white !important;
+	border-radius: 20px;
+}
+#news{
+	background-color: #316DC3;
+	margin-top: 20px;
+	color: white;
+	width: 100%;
+	margin-left: 120px;
+	height: 30px;
+}
+.para{
+	color: #888889;
+	margin-top: 15px;
+	margin-left: 50px;
+	width: 1015px;
+	text-align: justify;
+	font-size: 16px;
+
+
+}
+#num{
+	background-color: #2655E8;
+	display: flex;
+	justify-content: space-around;
+	flex-direction: column;	
+}
+#nu1{
+	flex: 20;
+
+}
+#nu2{
+	flex: 20;
+
+}
+#nu3{
+	flex: 5;
+
+}
+#nu4{
+	flex: 1;
+	margin-left: 100px;
+
+}
+
+#ima{
+	width: 50px;
+	margin-left: 35%;
+	margin-top: 70px;
+}
+#im{
+	width: 50px;
+	margin-top: 70px;
+}
+.box{
+	box-shadow: 0 5px 10px 0 rgba(0,0,0,0.3);
+	 background-color: #FFFFFF;
+	 width: 350px;
+	 padding-bottom: 35px;
+}
+#tt:hover{
+	background-color: #316DC3;
+
+}
+#tt{
+	margin-left: -5px;
+}
+.das{
+	width: 70px;
+	height: 2px;
+	background-color:#427900 ;
+	display: block;
+}
+@media only screen and (max-width: 600px){
+	#news{
+		width: 100%;
+		margin-left: -1px;
+	}
+	@media only screen and (max-width: 400px){
+	#news{
+		width: 100%;
+		margin-left: -1px;
+	}
+	#ima{
+		margin-left: 170px;
+	}
+	#med{
+		margin-left: -120px;
+		text-align: center;
+	}
+	#im{
+	margin-left: -50px;
+	}
+	.pra{
+		flex-direction: column;
+	}
+	#twi{
+		margin-top: 70px;
+	}
+	#imm{
+		margin-left: -40px;
+	}
+	#immr{
+		margin-left: -80px;
+	
+
+	}
+	
+
+		
+	
+
+
+}
+
+
